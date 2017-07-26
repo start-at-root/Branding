@@ -1,4 +1,3 @@
-# Branding
-Branding guideline and files
+# Branding guideline
 
 ![alt text](brand-guide.jpg "Branding Guide")
